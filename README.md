@@ -1,9 +1,10 @@
+# Foundations of Programming 
 
-# NineMensMorris
+### nine-men's-morris
 
+Nine Men's Morris with minimax.
 
-
-###### A strategy board game done as a project for Foundations of Programming class @ IST 
+Done as the second assignment for my Foundations of Programming class @ Técnico Lisboa.
 
 
 
